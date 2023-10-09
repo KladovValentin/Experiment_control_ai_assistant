@@ -12,13 +12,13 @@ List of desired features (not sorted):
 *  Anime icon and picture.
 
 Information:
-https://aclanthology.org/2023.findings-acl.27.pdf - fine tuning of multimodal pretrained models?
-https://huggingface.co/docs/transformers/v4.32.0/training - hugginfaces fine tuning guide
-https://arxiv.org/pdf/2308.04152.pdf - some other work about fine tuning
-https://github.com/zjr2000/Awesome-Multimodal-Chatbot - list of multimodal chatbots
-
-https://arxiv.org/pdf/2302.06692.pdf - reinforcement learining stuff
-https://kili-technology.com/large-language-models-llms/exploring-reinforcement-learning-from-human-feedback-rlhf-a-comprehensive-guide
+https://aclanthology.org/2023.findings-acl.27.pdf - fine tuning of multimodal pretrained models?   
+https://huggingface.co/docs/transformers/v4.32.0/training - hugginfaces fine tuning guide   
+https://arxiv.org/pdf/2308.04152.pdf - some other work about fine tuning   
+https://github.com/zjr2000/Awesome-Multimodal-Chatbot - list of multimodal chatbots   
+   
+https://arxiv.org/pdf/2302.06692.pdf - reinforcement learining stuff   
+https://kili-technology.com/large-language-models-llms/exploring-reinforcement-learning-from-human-feedback-rlhf-a-comprehensive-guide   
 
 
 Problems:
