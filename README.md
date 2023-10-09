@@ -11,7 +11,7 @@ List of desired features (not sorted):
 *  After the finetune should still be able to "chat": can be asked about the reasons in various ways, can react on human speach even without explicit call and learn from "raw" ordinary sentences.
 *  Anime icon and picture.
 
-Information:
+Information:   
 https://aclanthology.org/2023.findings-acl.27.pdf - fine tuning of multimodal pretrained models?   
 https://huggingface.co/docs/transformers/v4.32.0/training - hugginfaces fine tuning guide   
 https://arxiv.org/pdf/2308.04152.pdf - some other work about fine tuning   
